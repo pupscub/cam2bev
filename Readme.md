@@ -1,4 +1,4 @@
-# Query-Driven Cross-Attention for Multi-View Feature Fusion in BEV Perception
+# CS5330 Project: Query-Driven Cross-Attention for Multi-View Feature Fusion in BEV Perception
 
 ## Overview
 A deep learning approach that enhances Cam2BEV with query-driven cross-attention for improved Bird's Eye View (BEV) perception from multiple camera views. The model achieves superior performance in BEV semantic segmentation by dynamically fusing features from different camera perspectives.
